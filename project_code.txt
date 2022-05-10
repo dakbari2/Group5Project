@@ -1,0 +1,81 @@
+ssh username@54.218.99.3
+
+curl 'https://csula-my.sharepoint.com/personal/dakbari_calstatela_edu/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fdakbari%5Fcalstatela%5Fedu%2FDocuments%2Fproject%2Fcovid%2Ezip' \
+  -H 'authority: csula-my.sharepoint.com' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: MicrosoftApplicationsTelemetryDeviceId=df74a183-5873-eb38-b5a6-caa8e2058edd; MicrosoftApplicationsTelemetryFirstLaunchTime=1652045522445; KillSwitchOverrides_enableKillSwitches=; KillSwitchOverrides_disableKillSwitches=; rtFa=TqvE51AN0iMAVaAsgQUUFOoTeuDk17xs+cyT4tdBJ7QmMUIxMDA4ODktNEE3Qi00REMyLUFFRDItRDQ4QjkwQzcyQ0Q1IzEzMjk2NTE5MTIwNjUxMjQ2MiMyRjdDM0JBMC1FMDY4LUMwMDAtRTIxMC1EQkE3OTQ4QUI1MzUjREFLQkFSSSU0MENBTFNUQVRFTEEuRURVk0Nmjzg3RgFCaARx/D9ArWyxtSs5doWixd5NZsKfaVWTtH4DM2WKewCgEPqRTc8o09eg8ZBNbYWVdl2O4B2Que2ngFk+rkPoE0m/tm/NWiviDELVyJbggqClMswOYXOXyUFduosFfJHEAMXinKP+aDJfMH9KUpqXLGEG4hPOOqxH4XrJigy5XX3MYDy9Qrzd0AnWv+1ruFu4UesPWOmLa9905koviehM0sp1yB21oWxr1W3mPoWedhiBbH0mNMaBqkvaD690Uhjsd9GADTc7+iHkiRLkzDpWb3BjcYvMi8MlCdhZ6/vAsp7a8cu1WbPf+AtRGksfPd3AT/l5bRAoIJYAAAA=; cucg=1; FedAuth=77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U1A+VjEyLDBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMDhkYjg0NzAwQGxpdmUuY29tLDAjLmZ8bWVtYmVyc2hpcHxkYWtiYXJpQGNhbHN0YXRlbGEuZWR1LDEzMjk2NTE5MTEyMDAwMDAwMCwxMzI2MzIxNjYwNTAwMDAwMDAsMTMyOTY5NTUyMzI4NDU0ODEzLDEzMC4xODIuMjQuMjQwLDMsMWIxMDA4ODktNGE3Yi00ZGMyLWFlZDItZDQ4YjkwYzcyY2Q1LCwwY2QwOGE4NC0wMWQ0LTRhMmQtYmEzYy03ODAyYjU1NzYwYzMsMmY3YzNiYTAtZTA2OC1jMDAwLWUyMTAtZGJhNzk0OGFiNTM1LDFiODAzYmEwLWQwNjMtYzAwMC1mNjc4LWY4NTQwZTM0ZGZmYiwsMCwxMzI5NjU1MjAzMjY5NjMyODEsMTMyOTY4MDc2MzI2OTYzMjgxLCwsZXlKNGJYTmZZMk1pT2lKYlhDSkRVREZjSWwwaUxDSjRiWE5mYzNOdElqb2lNU0lzSW5CeVpXWmxjbkpsWkY5MWMyVnlibUZ0WlNJNkltUmhhMkpoY21sQVkyRnNjM1JoZEdWc1lTNWxaSFVpTENKMWRHa2lPaUpDWnpkUk1tdHpibVpWZVhaclRHNWplSEkxT1VGQkluMD0sMjY1MDQ2Nzc0Mzk5OTk5OTk5OSwxMzI5NjUxOTEyMDAwMDAwMDAsM2RhYzFhYmUtMjVlMy00ODVmLWJmNzMtYTM0NjAwZjg3ZTViLCwsLCwsMCwsQXRhODRCVDl6WHl4TkQzNWp6Um9sVkJzNkpkZW0ydTkvMkE4UldHd1REbGlYaFhkV0ZHRzc0K1V6Y2V1ZTVSMmVqNzBIT0FHQm85cVk3ZVFjeE5ib3g0bCtrN1ZPc1dZZTRKYTd1cGhqWXFRL2NZcGR6U3EzR2xLS0xEdmQ5U1JCSDJxL0ExUkRSUmV2NWRlcGNZSDRFdXIxbE1MZitrVkhjMmUrY3FWR2UrSDhsNnhndSswaHlWZ0RmNUIxOUZJYmZBV1VRMzNLOTRzZmNqQmtnVUlpSkNabmVRclpURXkzZlFsM3BBT0N4QWFuMjZwVVNLUTNvdHlRSWVuUSt2OXl6VVRRdVh5MkcyZVBlVmZ4TDVoa1ZtN1VsYjcwK2xrV2hKRVhKaDA5Rk9FSHNNTXg3YnZ0YXpwY3RkdEFuL21IWnFwMGFiL3FwdElIVWFGaWIySEpBPT08L1NQPg==' \
+  -H 'referer: https://csula-my.sharepoint.com/personal/dakbari_calstatela_edu/_layouts/15/onedrive.aspx?login_hint=dakbari%40calstatela%2Eedu&id=%2Fpersonal%2Fdakbari%5Fcalstatela%5Fedu%2FDocuments%2Fproject%2Fcovid%2Ezip&parent=%2Fpersonal%2Fdakbari%5Fcalstatela%5Fedu%2FDocuments%2Fproject' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: iframe' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'service-worker-navigation-preload: true' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36' \
+  --compressed --output covid.zip
+
+ls -al
+
+unzip covid.zip
+
+ls -al
+
+hdfs dfs -mkdir tmp
+
+hdfs dfs -mkdir tmp/timeage
+
+hdfs dfs -put TimeAge.csv tmp/timeage
+
+hdfs dfs -ls tmp/timeage
+
+beeline
+
+drop database yourDBName CASCADE;
+
+create database yourDBName;
+
+use yourDBName;
+
+DROP TABLE IF EXISTS TimeAge;
+CREATE EXTERNAL TABLE IF NOT EXISTS timeage(Curdate STRING, Curtime INT, age STRING, confirmed INT, deceased INT) ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS TEXTFILE LOCATION 'tmp/timeage' TBLPROPERTIES('skip.header.line.count'='1');
+show tables;
+
+select * from TimeAge LIMIT 10;
+
+hdfs dfs -mkdir tmp/timegender
+
+hdfs dfs -put TimeGender.csv tmp/timegender
+
+hdfs dfs -ls tmp/timegender
+
+beeline
+
+use yourDBName;
+
+DROP TABLE IF EXISTS TimeGender;
+CREATE EXTERNAL TABLE IF NOT EXISTS timegender (Curdate STRING, Curtime INT, sex STRING, confirmed INT, deceased INT) ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS TEXTFILE LOCATION 'tmp/timegender' TBLPROPERTIES('skip.header.line.count'='1');
+show tables;
+
+select * from TimeGender LIMIT 10;
+
+hdfs dfs -mkdir tmp/patientinfo
+
+hdfs dfs -put PatientInfo.csv tmp/patientinfo
+
+hdfs dfs -ls tmp/patientinfo
+
+beeline
+
+use yourDBName;
+
+DROP TABLE IF EXISTS PatientInfo;
+CREATE EXTERNAL TABLE IF NOT EXISTS patientinfo (patientId INT, sex STRING, age INT, country STRING, province STRING, city STRING, infection_case STRING, infected_by INT, contact_number INT, symptom_onset_date STRING, confirmed_date STRING, released_date STRING, deceased_date STRING, state STRING) ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS TEXTFILE LOCATION 'tmp/patientinfo' TBLPROPERTIES('skip.header.line.count'='1');
+show tables;
+
+select * from PatientInfo LIMIT 10;
+
+scp username@54.218.99.3:/home/username/PatientInfo.csv 000000_0.csv	
+
