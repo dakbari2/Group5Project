@@ -1,0 +1,5 @@
+Links to data:
+
+https://www.kaggle.com/kimjihoo/coronavirusdataset?fbclid=IwAR1V1oLbBY3gako_2s27chpybGrF8l5eH7NWyj685Ol9BKNyqJ0Ym-YCThw
+
+https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv
