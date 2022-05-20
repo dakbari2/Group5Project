@@ -1,3 +1,3 @@
 # Group5Project
 
-Project codes and documents by Group 5.
+Project codes, tutorial and documents by Group 5.
